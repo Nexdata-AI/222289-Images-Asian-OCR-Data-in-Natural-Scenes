@@ -29,4 +29,4 @@ the image data formats are jpg, png and jpeg, the annotation file format is .jso
 line-level rectangular bounding box annotation and transcription for the texts; word-level rectangular bounding box annotation and transcription for the texts; character-level rectangular bounding box annotation and transcription for the texts
 
 # Licensing Information
-Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
+Commercial License
